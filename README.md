@@ -4,7 +4,7 @@ My first repository
 # My Favorite Series and Movies
 
 ## Transformers 1
-!Transformers
+
 
 ### Overview
 **Transformers** is a 2007 science fiction action film directed by Michael Bay. It is based on the Transformers toy line and features a battle between the Autobots and the Decepticons.
@@ -26,7 +26,7 @@ My first repository
 ---
 
 ## Peaky Blinders
-!Peaky Blinders
+
 
 ### Overview
 **Peaky Blinders** is a British crime drama television series created by Steven Knight. It follows the exploits of the Shelby crime family in the aftermath of World War I.
@@ -48,7 +48,7 @@ My first repository
 ---
 
 ## Breaking Bad
-!Breaking Bad
+
 
 ### Overview
 **Breaking Bad** is an American crime drama television series created by Vince Gilligan. It tells the story of Walter White, a high school chemistry teacher turned methamphetamine manufacturer.
